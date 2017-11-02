@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employee id="123">
+    <answer>
+        <answername>java is a programming language</answername>
+        <postedby>ravi</postedby>
+    </answer>
+    <answer>
+        <answername>java is a platform</answername>
+        <postedby>john</postedby>
+    </answer>
+    <name>John Cover</name>
+    <salary>65000.0</salary>
+</employee>

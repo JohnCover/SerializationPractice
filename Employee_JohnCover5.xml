@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employee id="123">
+    <name>John Cover</name>
+    <salary>65000.0</salary>
+    <task/>
+    <task/>
+</employee>
